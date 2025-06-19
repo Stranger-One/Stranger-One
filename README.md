@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Dolamani Rohidas
+## 👋 Hi there, I'm Dola
 
 I'm a passionate and dedicated Full Stack Web Developer with a strong focus on building modern, efficient, and scalable web applications. I love exploring new technologies, solving real-world problems, and continuously learning to grow as a developer.
 
