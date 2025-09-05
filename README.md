@@ -9,7 +9,6 @@ I'm a passionate and dedicated Full Stack Web Developer with a strong focus on b
 - **Tools & Platforms:** Git, GitHub, Vite, Postman, Cloudinary, Netlify, Vercel, Render
 - **Authentication & Security:** JWT, OAuth, Helmet.js, CSRF protection, Jest, Vitest, Cypress
 - **Others:** WebSocket, Socket.IO, WebRTC, PeerJS, Leaflet, MapTiler, Redux Toolkit
-- **Deployment & DevOps:** Docker (basics), Nginx, Linux (WSL), GitHub Actions (basics)
 
 ### 🎯 Current Goals
 - Master advanced frontend animation and UI/UX techniques  
